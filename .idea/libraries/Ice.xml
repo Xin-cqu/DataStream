@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Ice">
+    <CLASSES>
+      <root url="jar:///Library/Developer/Ice-3.5/lib/Ice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///Library/Developer/Ice-3.5/lib/Ice.jar!/" />
+    </SOURCES>
+  </library>
+</component>
